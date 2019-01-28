@@ -1,0 +1,27 @@
+.TitleAccueil {
+    position: absolute;
+    color: white;
+    margin-top: 1%;
+    margin-left: 2%;    
+    font-size: 3em;
+    width: 100%; 
+    font-style: oblique;
+}
+
+.imgAccueil {
+    width: 100%;
+    height: 100%;
+}
+
+.nomArtistePageAccueil {
+   position: absolute;
+   width: 60%;
+   margin-top: 20%;
+   margin-left: 20%;
+}
+
+#lienadmin {
+    width: 10px;
+    height: 10px;
+    
+    }

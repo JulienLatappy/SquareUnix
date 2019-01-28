@@ -1,0 +1,51 @@
+.cal {
+
+    min-height: max-content;
+    height: calc(100vh - 100px);
+    width: 100%;
+    margin: auto;
+    background-color: #ebebec; 
+  
+  }
+
+.encadre {
+
+  margin-top: 0.5%;
+  margin-bottom: 1%;
+  border: 1px solid grey;
+  border-radius: 5px;
+  background-color: #ebebec;
+}
+
+h5 {
+  color: grey;
+}
+
+.ligney {
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 10px;
+  font-size: 12px;
+  background-color: #ebebec;
+}
+
+.rougeEncadre {
+  border: 5px solid red;
+  border-radius: 5px;
+  padding: 5px 5px;
+  width: 200px;
+}
+
+.orangeEncadre {
+  border: 5px solid orange;
+  border-radius: 5px;
+  padding: 5px 5px;
+  width: 200px;
+}
+
+.vertEncadre {
+  border: 5px solid green;
+  border-radius: 5px;
+  padding: 5px 5px;
+  width: 200px;
+}

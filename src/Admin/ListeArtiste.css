@@ -1,0 +1,25 @@
+.ficheArtiste
+{
+    list-style-type: none;
+    background-color: #54575D;
+    border: 1px solid black;
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+}
+
+.Vignette{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.titreVignette{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+}
+.boutonVignette{
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}

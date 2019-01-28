@@ -1,0 +1,13 @@
+.tailleBouton {
+    width: 160px;
+    border: 1px solid black;
+   
+}
+
+.tailleBouton :hover {
+    border: 1px solid blue;
+}
+
+.cache {
+    visibility: hidden;
+}

@@ -1,0 +1,69 @@
+.formulaire{
+    padding-top: 140px;
+    padding-bottom: 60px;
+    display : flex;
+    flex-direction: column;
+    
+}
+
+.pageformulaire {
+    background-color: #28292b;
+    color : white;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.affiche {
+    width : 350px;
+    margin-top: 140px;
+}
+
+.placeaffiche {
+    justify-content: center;
+}
+
+.prixbillet {
+    border : 1px grey solid;
+    background-color: rgb(233, 236, 239);
+    color: rgb(75, 81, 87);
+    border-radius: 5px;
+    width: 100%;
+    padding: 6px;
+    padding-left: 8px;
+    margin-top: 14px;
+}
+
+.option {
+    padding-bottom: 50px;
+    padding-left: 25px;
+}
+
+.check {
+    text-align : left;
+    padding-top: 10px;
+}
+
+.cgu {
+    text-align: center;
+    padding-top: 30px;
+    font-size : 1.2em; 
+    color: red;
+}
+
+.placebouton {
+    justify-content: center;
+}
+
+.optionrow {
+    padding : 10px;
+}
+
+.obli {
+    text-align: left;
+    font-size: 12px;
+}
+
+.rouge {
+    color: red;
+}
+

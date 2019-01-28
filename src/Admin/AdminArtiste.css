@@ -1,0 +1,43 @@
+.adminArtiste {
+    background-color: #28292b;
+    color: white;
+    font-size: 1.1em;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    padding-right: 150px;
+    padding-left: 150px;
+}
+.btn-outline-secondary{
+    background-color: white;
+}
+
+.formu {
+    justify-content: space-between;
+}
+
+.ligneBoutons {
+    justify-content: center;
+}
+
+.obli {
+
+    text-align: right;
+
+    font-size: 12px;
+    padding-right: 10%;
+}
+
+.rouge {
+    color: red;
+}
+
+input::placeholder {
+    font-style: italic;
+    color: grey;
+}
+
+.hr {
+    border: 1px solid white;
+    
+}

@@ -1,0 +1,19 @@
+.StyleArtiste {
+    margin-top: 55px;
+    background-color: #28292b;
+    color: black;
+    padding-bottom: 500px;
+    padding-top: 50px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+.grey {
+    background-color: #54575D;
+    margin-top: 30px;
+    border: solid #6F6464 2px;
+    
+} 
+
+.liste {
+    margin-top: 30px;
+}

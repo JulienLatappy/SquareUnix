@@ -1,0 +1,37 @@
+.footer {
+    background-color: black;
+    justify-content: center;
+    padding-top: 10px;
+    display : flex;
+    flex-direction: column;
+    font-family: 'Poppins', sans-serif;
+
+
+}
+.icons {
+    width: 30px;
+    justify-content: center;
+}
+   
+
+p {
+    color: white;
+    font-size: 15px;
+    
+}
+.textFooter {
+    font-size: 20px;
+}
+
+.deconone {
+    text-decoration: none;
+    color: white;
+
+    width: 60%;
+}
+.row
+{
+    justify-content: center;
+}
+
+

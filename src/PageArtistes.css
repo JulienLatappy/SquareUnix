@@ -1,0 +1,25 @@
+.StyleArtiste {
+    margin-top: 55px;
+    background-color: white;
+    color: black;
+    padding-bottom: 500px;
+    padding-top: 50px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+.liste {
+    margin-top: 30px;
+}
+
+.ligne {
+    display: flex;
+}
+
+.noir {
+    color: black;
+}
+
+.infos {
+    padding-top: 40px;
+}

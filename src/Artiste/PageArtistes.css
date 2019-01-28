@@ -1,0 +1,41 @@
+.StyleArtiste {
+    
+    background-color: #28292b;
+    color: #FFFFFF;
+    padding-bottom: 80px;
+    padding-top: 60px;
+    padding-right: 100px;
+    padding-left: 100px;
+    margin-top : 0px;
+    
+}
+
+.liste {
+    margin-top: 30px;
+    
+}
+.listeItem {
+
+    list-style-type: none;
+}
+.ligne {
+    display: flex;
+    border : 1px black solid;
+    padding: 10px;
+    background-color: rgb(85, 87, 93)!important;
+    font-family: 'Poppins', sans-serif;
+}
+
+.noir {
+    color: #FFFFFF;
+}
+
+.infos {
+    padding-top: 40px;
+}
+
+
+.clsBtn {
+    margin-top: 60px;
+}
+
